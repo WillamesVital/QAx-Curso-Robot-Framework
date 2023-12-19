@@ -1,0 +1,161 @@
+{"level":30,"time":"2023-12-19T00:23:30.658Z","pid":22972,"hostname":"WillamesVital","msg":"Listening on 61680"}
+{"level":30,"time":"2023-12-19T00:23:31.249Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:31.250Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:31.253Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:31.253Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:31.259Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-12-19T00:23:32.054Z","pid":22972,"hostname":"WillamesVital","msg":"Adding browser to stack: chromium, version: 120.0.6099.28"}
+{"level":30,"time":"2023-12-19T00:23:32.055Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-12-19T00:23:32.055Z","pid":22972,"hostname":"WillamesVital","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2023-12-19T00:23:32.060Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-12-19T00:23:32.061Z","pid":22972,"hostname":"WillamesVital","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-12-19T00:23:32.074Z","pid":22972,"hostname":"WillamesVital","msg":"Changed active context"}
+{"level":30,"time":"2023-12-19T00:23:32.546Z","pid":22972,"hostname":"WillamesVital","msg":"Video path: undefined"}
+{"level":30,"time":"2023-12-19T00:23:32.546Z","pid":22972,"hostname":"WillamesVital","msg":"Changed active page"}
+{"level":30,"time":"2023-12-19T00:23:33.383Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method newPage"}
+{"level":30,"time":"2023-12-19T00:23:33.387Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-12-19T00:23:33.388Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2023-12-19T00:23:33.425Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-12-19T00:23:33.432Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getText"}
+{"level":30,"time":"2023-12-19T00:23:33.432Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2023-12-19T00:23:33.466Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-12-19T00:23:33.466Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getText"}
+{"level":30,"time":"2023-12-19T00:23:33.472Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:33.472Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.503Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:33.505Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:33.505Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.522Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:33.525Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:33.525Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.546Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:33.549Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:33.549Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.568Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:33.572Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method click"}
+{"level":30,"time":"2023-12-19T00:23:33.572Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.632Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method click"}
+{"level":30,"time":"2023-12-19T00:23:33.635Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.635Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.643Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.643Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.655Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.655Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.669Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.669Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.682Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.682Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.690Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.690Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.702Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.703Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.711Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.711Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.726Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.726Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.735Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.735Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.748Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.748Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.757Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.757Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.770Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.770Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.784Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.784Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.796Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.796Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.806Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.806Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.819Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.819Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.828Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.828Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.840Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.840Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.852Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.852Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.864Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.864Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.874Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.874Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.886Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.886Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.896Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.896Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.908Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.908Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.920Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.920Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.932Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.932Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.940Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.940Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.953Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.953Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.962Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.962Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.974Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.974Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:33.983Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.983Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:33.995Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:33.996Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:34.005Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:34.005Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.017Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.017Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:34.026Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:34.026Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.039Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.039Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:34.050Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-12-19T00:23:34.050Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.062Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.062Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-12-19T00:23:34.082Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua da Alfândega"}
+{"level":30,"time":"2023-12-19T00:23:34.082Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.085Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.086Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2023-12-19T00:23:34.097Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Recife"}
+{"level":30,"time":"2023-12-19T00:23:34.097Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.099Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.099Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2023-12-19T00:23:34.108Z","pid":22972,"hostname":"WillamesVital","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing Recife/PE"}
+{"level":30,"time":"2023-12-19T00:23:34.108Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-12-19T00:23:34.110Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:34.110Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2023-12-19T00:23:34.125Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:34.128Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:34.128Z","pid":22972,"hostname":"WillamesVital","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2023-12-19T00:23:34.144Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method fillText"}
+{"level":30,"time":"2023-12-19T00:23:34.149Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-12-19T00:23:34.149Z","pid":22972,"hostname":"WillamesVital","Take screenshot with options: ":{"path":"C:\\QAx\\projects\\walkdog-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-12-19T00:23:34.285Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-12-19T00:23:34.292Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:34.294Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:34.299Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:34.302Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:34.304Z","pid":22972,"hostname":"WillamesVital","msg":"Changed active context"}
+{"level":30,"time":"2023-12-19T00:23:34.304Z","pid":22972,"hostname":"WillamesVital","msg":"Changing current active page: page=c23bfb37-2643-4daf-b90a-f21a1870bb11"}
+{"level":30,"time":"2023-12-19T00:23:34.304Z","pid":22972,"hostname":"WillamesVital","msg":"Changed active page"}
+{"level":30,"time":"2023-12-19T00:23:34.314Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:34.318Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:34.320Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-12-19T00:23:34.320Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-12-19T00:23:34.322Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-12-19T00:23:34.323Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-12-19T00:23:34.324Z","pid":22972,"hostname":"WillamesVital","msg":"Changing current active page: page=c23bfb37-2643-4daf-b90a-f21a1870bb11"}
+{"level":30,"time":"2023-12-19T00:23:34.324Z","pid":22972,"hostname":"WillamesVital","msg":"Changed active page"}
+{"level":30,"time":"2023-12-19T00:23:34.327Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:34.328Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:34.330Z","pid":22972,"hostname":"WillamesVital","msg":"Changed active context"}
+{"level":30,"time":"2023-12-19T00:23:34.330Z","pid":22972,"hostname":"WillamesVital","msg":"Changing current active page: page=c23bfb37-2643-4daf-b90a-f21a1870bb11"}
+{"level":30,"time":"2023-12-19T00:23:34.330Z","pid":22972,"hostname":"WillamesVital","msg":"Changed active page"}
+{"level":30,"time":"2023-12-19T00:23:34.332Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-12-19T00:23:34.350Z","pid":22972,"hostname":"WillamesVital","msg":"Removed page=5f3fa459-294a-42f8-80dc-82729ac2b3bd from context=6a88199f-f730-4acc-a6fe-715fc65fc73b page stack"}
+{"level":30,"time":"2023-12-19T00:23:34.381Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-12-19T00:23:34.389Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:34.389Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-12-19T00:23:34.447Z","pid":22972,"hostname":"WillamesVital","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-12-19T00:23:34.589Z","pid":22972,"hostname":"WillamesVital","msg":"End of node method closeAllBrowsers"}
