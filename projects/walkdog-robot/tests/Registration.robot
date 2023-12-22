@@ -23,7 +23,7 @@ Deve poder cadastrar um novo dog walker
     ...   cnh=toretto.jpg
 
     Given go to registration page
-    Then fill out the registration form    ${dog_walker}
+    When fill out the registration form   ${dog_walker}
     Submit signup form
     Popup should be    Recebemos o seu cadastro e em breve retornaremos o contato.
 
@@ -43,7 +43,7 @@ Não deve cadastrar se o cpf for incorreto
     ...   cnh=toretto.jpg
 
     Given go to registration page
-    Then fill out the registration form    ${dog_walker}
+    When fill out the registration form    ${dog_walker}
     Submit signup form
 
 Não deve cadastrar se os campos obrigatórios não forem preenchidos
@@ -75,7 +75,7 @@ Deve poder cadastrar um novo dog walker que sabe cuidar de pets
     ...   cnh=toretto.jpg
 
     Given go to registration page
-    Then fill out the registration form    ${dog_walker}
+    When fill out the registration form    ${dog_walker}
     Additional Service    Cuidar
     Submit signup form
     Popup should be    Recebemos o seu cadastro e em breve retornaremos o contato.
@@ -97,7 +97,7 @@ Deve poder cadastrar um novo dog walker que sabe adestrar pets
     ...   additional_service=Adestrar
 
     Given go to registration page
-    Then fill out the registration form    ${dog_walker}
+    When fill out the registration form   ${dog_walker}
     Additional Service    Adestrar
     Submit signup form
     Popup should be    Recebemos o seu cadastro e em breve retornaremos o contato.
